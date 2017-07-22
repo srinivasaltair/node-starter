@@ -1,5 +1,5 @@
 {
-  "name": "primecolors-api",
+  "name": "node-starter",
   "version": "1.0.0",
   "description": "Rest api",
   "main": "index.js",
